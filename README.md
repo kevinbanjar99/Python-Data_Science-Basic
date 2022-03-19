@@ -5,3 +5,8 @@ The repository are split into 2 folder. The first is Batch_July_2020 and it cont
 
 ![Comparison Table](assets/comparison_table.jpg)
 
+
+Feel free to use this repo for learning the basics of data science Also, Please kindly give a star if you find it useful :).
+
+Happy Coding !
+Cheers.
